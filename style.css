@@ -1,3 +1,8 @@
-.pa{
-    
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+:root {
+    --cor-de-fundo: #5c86db;
 }
