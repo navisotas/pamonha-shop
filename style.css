@@ -10,5 +10,8 @@
 
 body {
     background-color: var(--cor-de-fundo);
-    background-color: aliceblue;
 }
+h1 {
+    background-color: white;
+}
+
