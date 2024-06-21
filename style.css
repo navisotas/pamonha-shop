@@ -5,7 +5,7 @@
 }
 
 :root { /*seletor raiz para variaveis*/
-    --cor-de-fundo: #e063c1da;
+    --cor-de-fundo: #8a3d76da;
     --cor-da-letra:rgb(7, 66, 230);
 }
 
@@ -13,6 +13,6 @@ body {
     background-color: var(--cor-de-fundo);
 }
 h1 {
-    background-color: rgb(9, 12, 231);
+    background-color: rgb(33, 35, 165);
 }
 
