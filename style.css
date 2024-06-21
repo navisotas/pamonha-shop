@@ -1,9 +1,14 @@
-@import url("style/hearder.css");
-:root {
-    --cor-de-fundo: #0556f7;
-    --branco: #f8cb00;
+*{ /*seletor universal para resetar as bordas da página*/
+    padding:0px;
+    margin: 0px;
 }
-.container__imagem {
-    padding: 1em;
+
+:root {/* seletor raiz para variáveis*/
+    --cor-de-fundo: rgb(0, 0, 0);
+    --cor-da-letra: black;
+    --cor-branco: white;
 }
-QER
+
+body{/*seletor Body*/
+    background-color: var(--cor-de-fundo);
+}
